@@ -8,9 +8,9 @@
 <h4 align="left"><strong> A console application that simulates a simple Bank ATM System with 3 Main options:</strong></h3><p align="left">
 
 
-<p>1.🏦💱 Check Account</p>
-<p>2.💸💳 Withdraw</p>
-<p>3.💲💰 Deposit</p>
+<p>1.🏦 Check Account</p>
+<p>2.💳 Withdraw</p>
+<p>3.💰 Deposit</p>
 <br/>
 
 
