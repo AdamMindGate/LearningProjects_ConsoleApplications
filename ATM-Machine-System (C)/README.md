@@ -5,29 +5,15 @@
 ## Application Description  
 <tr><td valign="top" width="33%">
 
-<h4 align="left"><strong> Is a console application that simulates a simple Bank ATM System with 3 Main options:
-</strong></h3>
-<p align="left">
-</p>
-  
+<h4 align="left"><strong> A console application that simulates a simple Bank ATM System with 3 Main options:</strong></h3><p align="left">
 
-- 🏦💱 Check Account
-- 💸💳 Withdraw
-- 💲💰 Deposit
+
+<p>1.🏦💱 Check Account</p>
+<p>2.💸💳 Withdraw</p>
+<p>3.💲💰 Deposit</p>
 <br/>
 
-<h3 align="center"><strong> Visual Explanition</strong></h3>
-<div align="center">
-<img src="https://d.top4top.io/p_2359765l01.png" align="center" style="width: 50%" />
-<img src="https://e.top4top.io/p_235902t9y2.png" align="center" style="width: 50%" />
 
-</div>  
-
-
-<h4 align="left"><strong> Was Mainly made for learning purpose project so have fun playing with it !</strong></h4>
-<h4 align="left"><strong>If you did like the project dont forget to give it a star⭐⭐⭐!</strong></43>
-<p align="left">
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
