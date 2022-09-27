@@ -8,9 +8,9 @@ Heres a really simple console application made with C language !
   
 <table><tr><td valign="top" width="50%">
 
-- ⌛ It simulates the 12 hour life cycle time.
+- It simulates the 12 hour life cycle time.
 
-- ⏰ Heres a gif that shows how it works, But be careful to use the right format, as its shown..("HH:MM:SS")  
+- Heres a gif that shows how it works, But be careful to use the right format, as its shown..("HH:MM:SS")  
 
 </td><td valign="top" width="50%">
 <div align="center">
