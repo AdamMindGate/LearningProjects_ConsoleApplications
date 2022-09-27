@@ -1,2 +1,14 @@
-# LearningProjects_ConsoleApplications
-Bunch of Console applications that were made during my learning journey for learning &amp; improving purposes.
+# ATM-Machine (C++)
+
+A console application miniproject made for the purpose of learning, implementing bunch of
+real life operations of an ATM Machine such as dynamic balance storage, deposit & withdraw and balance enquiry of an account.
+
+
+# Modules
+
+- Dynamic account balance storage
+- Withdraw
+- Deposit
+
+
+                
