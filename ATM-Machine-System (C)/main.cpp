@@ -19,11 +19,11 @@ int menu()
     cout<<"4) Quit\n\n";
     cin>>choice;
 
-     if(choice > 4 || choice < 1)
-     {
-         //keep the loop
-         choice = -1;
-     }
+         if(choice > 4 || choice < 1)
+         {
+             //keep the loop
+             choice = -1;
+         }
     }
     while(choice == -1);
 
@@ -38,16 +38,14 @@ void account()
     cout<<"Currency: $"<<money<<endl;
 
     cout<<"------------------------\n";
-
 }
 
 
 int user_input()
 {
-
-
     cout<<"ATM\n";
     cout<<"------------------------\n";
+
     cout<<"Enter your Name: ";
     getline(cin,name);
     do
@@ -113,6 +111,7 @@ void ATM_System()
 int main()
 {
     ATM_System();
+
    return 0;
 }
 
